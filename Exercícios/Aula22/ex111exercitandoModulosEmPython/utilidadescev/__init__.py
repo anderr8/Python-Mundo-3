@@ -1,0 +1,1 @@
+from ex111exercitandoModulosEmPython.utilidadescev import dado
